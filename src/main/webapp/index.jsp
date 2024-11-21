@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>This is my First DevOps Output</h2>
+<h2>Hello DevTech</h2>
 </body>
 </html>
