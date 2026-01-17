@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>This is test for KIOT workshop to CSBS Department</h2>
+<h2>This is test for Dev Tech</h2>
 </body>
 </html>
