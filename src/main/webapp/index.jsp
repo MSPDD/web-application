@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>This is my Test DevOps Page for RP Sarathy College </h2>
+<h2>This is My First DevOps Page - DevTech </h2>
 </body>
 </html>
