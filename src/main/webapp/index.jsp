@@ -1,5 +1,7 @@
 <html>
 <body>
-<h2>This is New DevOps Page for RPS </h2>
+Username: <input typr="text" name="t1"/></br>
+Password: <input typr="password" name="t2"/></br>
+<input typr="submit" value="Login"/>
 </body>
 </html>
