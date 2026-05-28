@@ -1,7 +1,7 @@
 <html>
 <body>
-Username: <input typr="text" name="t1"/></br>
-Password: <input typr="password" name="t2"/></br>
-<input typr="submit" value="Login"/>
+Username: <input type="text" name="t1"/></br>
+Password: <input type="password" name="t2"/></br>
+<input type="submit" value="Login"/>
 </body>
 </html>
