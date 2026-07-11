@@ -1,5 +1,7 @@
 <html>
 <body>
-This is first DevOps Page for SCT Testing
+Username: <input type="text" name="t1"/></br>
+Password: <input type="password" name="t2"/></br>
+<input type="submit" value="Login"/>
 </body>
 </html>
